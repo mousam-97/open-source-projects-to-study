@@ -1,7 +1,7 @@
 # Large open source projects to study 
 A List of large open source projects to study
 
-	1. Jira Clone: [https://github.com/oldboyxx/jira_clone]
+	1. Jira Clone: https://github.com/oldboyxx/jira_clone
 	2. Conduit: https://github.com/gothinkster/react-redux-realworld-example-app
 	3. Real World App by Cypress: https://github.com/cypress-io/cypress-realworld-app
 	4. Simorgh by BBC: https://github.com/bbc/simorgh
