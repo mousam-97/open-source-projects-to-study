@@ -1,4 +1,4 @@
-# open-source-projects-to-study
+# Large open source projects to study 
 A List of large open source projects to study
 
 	1. Jira Clone: https://github.com/oldboyxx/jira_clone
